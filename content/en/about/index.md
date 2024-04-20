@@ -1,35 +1,32 @@
 ---
-title: About Goldydocs
+title: About Low expections
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="About Goldydocs" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="About Low expectations" image_anchor="bottom" height="auto" %}}
 
-A sample site using the Docsy Hugo theme.
+
 {.mt-5}
 
 {{% /blocks/cover %}}
 
 {{% blocks/lead %}}
 
-Goldydocs is a sample site using the [Docsy](https://github.com/google/docsy)
-Hugo theme that shows what it can do and provides you with a template site
-structure. It’s designed for you to clone and edit as much as you like. See the
-different sections of the documentation and site for more ideas.
-
+This is yet another we site. Not to get your hopes up. Keeping ambitions low. And impact low.
+Think glass half full. I have enjoyed half of it, time for a top up! 
 {{% /blocks/lead %}}
 
 {{% blocks/section %}}
 
-# This is another section
+# Future posts
 {.text-center}
 
 {{% /blocks/section %}}
 
 {{% blocks/section %}}
 
-# This is another section
+# To do section
 {.text-center}
-
+Discourse, polls.
 {{% /blocks/section %}}
