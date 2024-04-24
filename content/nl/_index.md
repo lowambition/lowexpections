@@ -1,42 +1,40 @@
 ---
-title: Low Expectations
+title: Begin it
 ---
 
-{{< blocks/cover title="Welcome to Low Expectations!" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Welkom!" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Latest entry <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  Laatste <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
   Downloads <i class="fab fa-arrow-alt-down ms-2 "></i>
 </a>
-<p class="lead mt-5">Cocoa and muesli recipes &mdash; in the cloud!</p>
+<p class="lead mt-5">Cocoa en muesli &mdash; in the cloud</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-
 {{% blocks/lead color="primary" %}}
-Low expectations. Overnight oat muesli. Bare knuckle raw food.
+Begin it. Overnacht haver muesli. Blote knokkle rauw eten. Een samenleving. Uw droom. Begin it. Stapje voor stapje.
 
+---
 
-(This is a real website)
+(statisch website, laag energie verbruik, laag bandbreedte)
 {{% /blocks/lead %}}
-
 
 {{% blocks/section color="dark" type="row" %}}
 {{% blocks/feature icon="fa-lightbulb" title="Blog" %}}
-There is always something to add. url="/docs
+Er is altijd iets.
 
-Please follow this space for updates!
+Volg mee.
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fab fa-feedback" title="Feedback" url="https://github.com/lowambition/lowexpections/issues/new" %}}
+roep terug.
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-feedback" title="Feedback" url="https://github.com/google/docsy-example" %}}
-Links bank.
-{{% /blocks/feature %}}
-
-
-{{% blocks/feature icon="fab fa-arrow" title="Follow us on rss" %}}
-For announcement of latest features etc.
+{{% blocks/feature icon="fab fa-arrow" title="Over" %}}
+Achtergrond
 {{% /blocks/feature %}}
 
 
@@ -44,24 +42,24 @@ For announcement of latest features etc.
 
 
 {{% blocks/section %}}
-More
+Meer
 {.h1 .text-center}
 {{% /blocks/section %}}
 
 
 {{% blocks/section type="row" %}}
 
-{{% blocks/feature icon="fab fa-app" title="Dordrecht" %}}
-Dordrecht 
+{{% blocks/feature icon="fab fa-app" title="Willekeurig" %}}
+Willekeurig
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-" title="Where we live!"
+{{% blocks/feature icon="fab fa-" title="Laatste!"
     url="https://github.com/google/docsy-example" %}}
-Buildings
+Laatste
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa" title="Follow Software"
-    url="https://twitter.com/GoHugoIO" %}}
+{{% blocks/feature icon="fab fa" title="Software"
+%}}
 For tools and software.
 {{% /blocks/feature %}}
 
@@ -69,6 +67,6 @@ For tools and software.
 
 
 {{% blocks/section %}}
-This is the another section
+Eind
 {.h1 .text-center}
 {{% /blocks/section %}}

@@ -1,10 +1,10 @@
  ---
-title: Over Low Expectations
+title: Over Begin it
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="Over Low Expectations" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="Begin it" image_anchor="bottom" height="auto" %}}
 
 Een website over Code, Dordrecht, low impact gezond bouwen
 {.mt-5}
@@ -26,7 +26,7 @@ Punten:
 {{% blocks/section %}}
 
 ## Nederlands
-{.text-center}
+{.text-links}
 
 Ik schrijf unregelmatig in het Nederlands. Ik gebruik engels idiom. Soms is het grappig. 
 Maar ik geloof, het is altijd beter met mensen te praten in zijn eigen taal.
