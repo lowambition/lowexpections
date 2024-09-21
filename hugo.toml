@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Begin it"
+title = "Llerrac"
 
 # Language settings
 contentDir = "content/en"
@@ -14,7 +14,7 @@ enableRobotsTXT = true
 enableGitInfo = true
 
 # Comment out to enable taxonomies in Docsy
-# disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 
 # You can add your own taxonomies
 [taxonomies]
@@ -26,10 +26,10 @@ building = "building"
 
 [params.taxonomy]
 # set taxonomyCloud = [] to hide taxonomy clouds
-taxonomyCloud = ["tags", "categories"]
+taxonomyCloud = ["tags", "categories", "livinginNl"]
 
 # If used, must have same length as taxonomyCloud
-taxonomyCloudTitle = ["Tag Cloud", "Categories"]
+taxonomyCloudTitle = ["Tag Cloud", "Categories", "living in Nl"]
 
 # set taxonomyPageHeader = [] to hide taxonomies on the page headers
 taxonomyPageHeader = ["tags", "categories"]
@@ -139,7 +139,7 @@ prism_syntax_highlighting = true
 
 [params.copyright]
   authors = "Low ambition llerrac | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | "
-  from_year = 2018
+  from_year = 2024
 
 # User interface configuration
 [params.ui]
@@ -162,7 +162,7 @@ sidebar_search_disable = false
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
 yes = 'Glad to hear it! Please <a href="https://github.com/lowambition/lowexpections/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/lowambition/lowexpections/issues/new">tell us how we can improve</a>.'
+no = 'Sorry to hear that. Please write up an issue <a href="https://github.com/lowambition/lowexpections/issues/new"> to improve</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page,
