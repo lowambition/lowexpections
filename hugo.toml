@@ -189,3 +189,8 @@ enable = true
   [[module.imports]]
     path = "github.com/google/docsy"
     disable = false
+
+[params.comments]
+  host = "test.test"
+  username = "llerrac"
+  id = 12343874646
