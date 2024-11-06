@@ -3,4 +3,4 @@ image: hugomods/hugo
 # Build command
 # command: hugo build
 # Public directory
-public: public/
+public: 
